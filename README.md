@@ -1,4 +1,10 @@
----Olá Eu Sou Antonio. 👨
+##-✔ Olá Eu Sou Antonio. 👨
+
+- ♠  Não trabalho na area de desevolvimento.
+
+- ⚖ Estou estudando javascript.
+
+-🐱‍🏍 cromuns: ele
 <div align="center">
   <a href="https://github.com/antoniocs">
   <img height="180em"src="https://github-readme-stats.vercel.app/api?username=antoniocs&show_icons=false&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
