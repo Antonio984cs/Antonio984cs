@@ -9,7 +9,7 @@
 <div align="center">
   <a href="https://github.com/antonio984cs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antonio984cs&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" widt="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonio984cs&layout=compact&langs_count=7&theme=blue-green"/>
+  <img height="180em" img width="560em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonio984cs&layout=compact&langs_count=7&theme=blue-green"/>
    
 </div>
   <div style="display: inline_block"><br>
@@ -18,11 +18,10 @@
      <img align="center" alt="antonio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       <img align="center" alt="antonio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="antonio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-     
-</div>
-<img align="right" alt="antonio-pic" height="150" style="border-radius:50px;" src="https://      >
+   <img align="right" alt="antonio-pic" height="150" style="border-radius:50px;" src="https://      > 
 </div>
   
+ 
   ##
  
 <div> 
